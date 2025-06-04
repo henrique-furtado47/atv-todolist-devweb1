@@ -1,0 +1,22 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px; /* Altura para demonstrar a centralização */
+}
+
+.formulario {
+  position: absolute;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+li .remover {
+  color: red;
+}
+
+li .editar {
+  color: blue;
+}
